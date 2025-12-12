@@ -24,6 +24,6 @@ Navigasi Colab:
 - Pastikan folder drive saya->regresi dataset berisi dataset
 - Jalankan notebook secara berurutan
 5. Identitas
-Nama: Aisha Patricia Sekar Ayu
-Kelas: TK-46-02
-NIM: 1103223067
+- Nama: Aisha Patricia Sekar Ayu
+- Kelas: TK-46-02
+- NIM: 1103223067
