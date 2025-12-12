@@ -15,9 +15,11 @@ Tahapan proyek meliputi:
 - Model terbaik: LightGBM
 - Metrik evaluasi: MSE, RMSE, MAE, R²
 4. Navigasi repo/colab
+
 Navigasi Repo:
 - Folder ini berisi file Tugas2Regression.ipynb
 - Struktur repositori mengikuti pembagian per tugas
+
 Navigasi Colab:
 - Upload atau buka notebook
 - Mount Google Drive
