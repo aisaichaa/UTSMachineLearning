@@ -16,6 +16,7 @@ Tahapan yang dilakukan meliputi:
 4. Navigasi repo/colab
 Navigasi Repo:
 - Folder ini berisi file Tugas3Clustering.ipynb
+
 Navigasi Colab:
 - Upload atau buka notebook
 - Mount Google Drive
