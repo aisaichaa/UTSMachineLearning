@@ -14,6 +14,7 @@ Tahapan yang dilakukan meliputi:
 - Model yang digunakan: K-Means
 - Metrik evaluasi: Silhouette Score dan analisis centroid
 4. Navigasi repo/colab
+
 Navigasi Repo:
 - Folder ini berisi file Tugas3Clustering.ipynb
 
