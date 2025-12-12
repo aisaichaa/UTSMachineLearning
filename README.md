@@ -14,14 +14,18 @@ Setiap tugas menggunakan model berbeda sesuai tujuan analisis:
 - Tugas 3: K-Means; dievaluasi menggunakan Silhouette Score dan interpretasi centroid
 4. Navigasi repo/colab
 Navigasi Repo:
+
 Repositori terdiri dari tiga folder utama:
+
 - Tugas-1 (Fraud Detection)
 - Tugas-2 (Regression)
 - Tugas-3 (Clustering)
+
 Setiap folder memiliki:
 - Notebook utama (Tugas1Fraud.ipynb, Tugas2Regression.ipynb, Tugas3Clustering.ipynb)
 - README penjelasan per tugas
 - File pendukung jika diperlukan
+  
 Navigasi Colab:
 - Upload atau buka notebook melalui Google Colab
 - Mount Google Drive
