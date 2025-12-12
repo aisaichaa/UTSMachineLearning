@@ -15,9 +15,11 @@ Proyek ini mencakup:
 - Model utama: LightGBM (dengan tuning)
 - Metrik evaluasi: ROC-AUC, PR-AUC, classification report, confusion matrix
 4. Navigasi repo/colab
+
 Navigasi Repo:
 - Folder ini berisi file Tugas1Fraud.ipynb
 - Struktur repositori mengikuti pembagian per tugas
+
 Navigasi Colab:
 - Upload atau buka notebook
 - Mount gdrive dengan perintah yang sesuai
